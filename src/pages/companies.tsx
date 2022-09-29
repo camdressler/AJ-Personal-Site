@@ -36,13 +36,6 @@ export default function () {
             </a>
           </div>
           <div className="w-fulll flex flex-row space-x-8">
-            <img src={logo4.src} className="w-20 h-20 xl:w-24 xl:h-24" />
-            <a className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold px-4 rounded-lg">
-              AJ.#0011
-              <FiExternalLink className="text-white h-3 w-3 ml-2" />
-            </a>
-          </div>
-          <div className="w-fulll flex flex-row space-x-8">
             <img src={logo1.src} className="w-20 h-20 xl:w-24 xl:h-24" />
             <a className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold px-4 rounded-lg">
               Starter's Square
