@@ -10,9 +10,10 @@ export default function () {
       </div>
       <div className="basis-1/2 flex justify-end items-center pr-8">
         <div className="flex flex-row space-x-4 text-white select-none">
-          <a href="/" className="text-lg opacity-75 hover:opacity-100 duration-200 ease-in-out">Home</a> 
-          <a href="/payments" className="text-lg opacity-75 hover:opacity-100 duration-200 ease-in-out">Payments</a>
-          <a href="/contact" className="text-lg opacity-75 hover:opacity-100 duration-200 ease-in-out">Contact</a>
+          <a href="/" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Home</a> 
+          <a href="/companies" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Companies</a>
+          <a href="/payments" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Payments</a>
+          <a href="/contact" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Contact</a>
         </div>
       </div>
     </div>
