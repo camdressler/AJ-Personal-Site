@@ -23,31 +23,31 @@ export default function () {
         <div className="w-[85%] flex flex-col space-y-6 justify-center items-center mt-12">
           <div className="w-fulll flex flex-row space-x-8">
             <img src={logo2.src} className="w-20 h-20 xl:w-24 xl:h-24" />
-            <div className="flex flex-row items-center justify-center space-x-4 w-[350px]  border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg">
+            <a href="https://twitter.com/Atomic_ACO" className="flex flex-row items-center justify-center space-x-4 w-[350px]  border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg">
               Atomic ACO
               <FiExternalLink className="text-white h-3 w-3 ml-2" />
-            </div>
+            </a>
           </div>
           <div className="w-fulll flex flex-row space-x-8">
             <img src={logo3.src} className="w-20 h-22 xl:w-24 xl:h-26" />
-            <div className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg">
+            <a className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg">
               Reef Labs
               <FiExternalLink className="text-white h-3 w-3 ml-2" />
-            </div>
+            </a>
           </div>
           <div className="w-fulll flex flex-row space-x-8">
             <img src={logo4.src} className="w-20 h-20 xl:w-24 xl:h-24" />
-            <div className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold px-4 rounded-lg">
+            <a className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold px-4 rounded-lg">
               AJ.#0011
               <FiExternalLink className="text-white h-3 w-3 ml-2" />
-            </div>
+            </a>
           </div>
           <div className="w-fulll flex flex-row space-x-8">
             <img src={logo1.src} className="w-20 h-20 xl:w-24 xl:h-24" />
-            <div className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold px-4 rounded-lg">
+            <a className="flex flex-row items-center justify-center space-x-4 w-[350px] border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold px-4 rounded-lg">
               Starter's Square
               <FiExternalLink className="text-white h-3 w-3 ml-2" />
-            </div>
+            </a>
           </div>
         </div>
       </div>
