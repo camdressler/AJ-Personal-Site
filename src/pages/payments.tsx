@@ -19,9 +19,8 @@ export default function () {
       <NavBar />
       <div className="w-full flex flex-row justify-center items-center pt-16">
         <h1 className="text-white font-semibold  text-5xl xl:text-7xl">
-          Pay AJ
+          Payments
         </h1>
-        <img src={Money.src} className="w-14 h-14 xl:w-16 xl:h-16 ml-5" />
       </div>
       <div className="w-full flex flex-col justify-center items-center pt-6">
         <div className="max-w-[85%] flex flex-col space-y-2 justify-center items-center border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-6 px-6 rounded-lg">

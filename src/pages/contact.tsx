@@ -17,7 +17,12 @@ export default function () {
   return (
     <div className="h-screen w-screen max-h-screen max-w-screen mx-auto space-y-4 font-poppins tracking-wide">
       <NavBar />
-      <div className="w-full flex flex-col justify-center items-center pt-16">
+      <div className="w-full flex flex-row justify-center items-center pt-16">
+        <h1 className="text-white font-semibold  text-5xl xl:text-7xl">
+          Contact
+        </h1>
+      </div>
+      <div className="w-full flex flex-col justify-center items-center pt-8">
         <div className="w-[85%] flex flex-col space-y-6 justify-center items-center">
           <div className="w-fulll flex flex-row space-x-8">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
