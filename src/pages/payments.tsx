@@ -35,7 +35,7 @@ export default function () {
               <SiZelle className="w-10 h-10 text-white" />
             </div>
             <div className="flex flex-row items-center justify-center space-x-4  border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg">
-              <h1>aj@matisecapital.com</h1>
+              <h1>@ajmatise</h1>
               <FiCopy
                 className="w-6 h-6 text-white cursor-pointer"
                 onClick={() => copy()}
@@ -47,7 +47,7 @@ export default function () {
               <IoLogoVenmo className="w-10 h-10 text-white" />
             </div>
             <div className="flex flex-row items-center justify-center space-x-4 border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg">
-              <h1>aj@matisecapital.com</h1>
+              <h1>@AJ-Matise</h1>
               <FiCopy
                 className="w-6 h-6 text-white cursor-pointer"
                 onClick={() => copy()}
@@ -59,7 +59,7 @@ export default function () {
               <SiPaypal className="w-10 h-10 text-white" />
             </div>
             <div className="flex flex-row items-center justify-center space-x-4  border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-1 px-4 rounded-lg ">
-              <h1>aj@matisecapital.com</h1>
+              <h1>@ajmatise</h1>
               <FiCopy
                 className="w-6 h-6 text-white cursor-pointer"
                 onClick={() => copy()}
