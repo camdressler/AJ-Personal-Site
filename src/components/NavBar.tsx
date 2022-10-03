@@ -9,11 +9,11 @@ export default function () {
         <img alt="main logo" src={AJLogo.src} className="w-8 h-8 md:w-12 md:h-12" />
       </div>
       <div className="basis-1/2 flex justify-end items-center pr-8">
-        <div className="flex flex-row space-x-4 text-white select-none">
-          <a href="/" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Home</a> 
-          <a href="/companies" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Companies</a>
-          <a href="/payments" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Payments</a>
-          <a href="/contact" className="text-md md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Contact</a>
+        <div className="flex flex-row space-x-2 md:space-x-4 text-white select-none">
+          <a href="/" className="text-sm md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Home</a> 
+          <a href="/companies" className="text-sm md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Companies</a>
+          <a href="/payments" className="text-sm md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Payments</a>
+          <a href="/contact" className="text-sm md:text-xl opacity-75 hover:opacity-100 duration-200 ease-in-out">Contact</a>
         </div>
       </div>
     </div>

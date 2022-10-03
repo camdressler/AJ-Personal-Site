@@ -28,10 +28,10 @@ export default function Home() {
         </div>
       </div>
       <div className="w-full justify-center items-center flex flex-row space-x-8 xl:space-x-[250px] pt-2 pb-4">
-        <img src={logo2.src} className="w-28 h-28 xl:w-36 xl:h-36" />
-        <img src={logo3.src} className="w-32 h-34 xl:w-48 xl:h-50" />
-        <img src={logo4.src} className="w-32 h-32 xl:w-48 xl:h-48" />
-        <img src={logo1.src} className="w-28 h-28 xl:w-36 xl:h-36" />
+        <img src={logo2.src} className="w-14 h-14 md:w-28 md:h-28 xl:w-36 xl:h-36" />
+        <img src={logo3.src} className="w-20 h-18 md:w-32 md:h-34 xl:w-48 xl:h-50" />
+        <img src={logo4.src} className="w-20 h-20 md:w-32 md:h-32 xl:w-48 xl:h-48" />
+        <img src={logo1.src} className="w-14 h-14 md:w-28 md:h-28 xl:w-36 xl:h-36" />
       </div>
       <a href="/companies" className="mx-auto flex text-center items-center justify-center text-sm w-fit border-2 cursor-pointer hover:opacity-100 border-blue bg-blue bg-opacity-20 opacity-75 select-none text-white font-semibold py-1 pl-4 pr-2 rounded-lg duration-200 ease-in-out mt-8">
         See Companies <BiChevronRight className="text-white h-6 w-6 " />
