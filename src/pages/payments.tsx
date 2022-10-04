@@ -23,11 +23,6 @@ export default function () {
         </h1>
       </div>
       <div className="w-full flex flex-col justify-center items-center pt-6">
-        <div className="max-w-[85%] flex flex-col space-y-2 justify-center items-center border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-6 px-6 rounded-lg">
-          <h1 className="text-center">
-            Please make sure all information matches before sending payments
-          </h1>
-        </div>
         <div className="w-[85%] flex flex-col space-y-6 justify-center items-center mt-12 ">
           <div className="w-full flex flex-row justify-center  space-x-8">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
@@ -65,8 +60,11 @@ export default function () {
               />
             </div>
           </div>
-          <div className="w-fit flex items-center justify-center mb-4 border-2 text-white border-blue bg-blue bg-opacity-20 rounded-lg px-16 py-4">
-            Name: Anthony Matise
+          <div className="w-[90%] flex flex-col space-y-2 justify-center items-center border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-6 px-6 rounded-lg">
+            <h1 className="text-center">Name: Anthony Matise</h1>
+            <h1 className="text-center">
+              Please make sure all information matches before sending payments
+            </h1>
           </div>
         </div>
       </div>
