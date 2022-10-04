@@ -24,7 +24,7 @@ export default function () {
       </div>
       <div className="w-full max-w-screen flex flex-col justify-center items-center pt-8">
         <div className="w-[85%] flex flex-col space-y-6 justify-center items-center">
-          <div className="w-full flex flex-row space-x-8">
+          <div className="w-full flex flex-row space-x-8 justify-center">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
               <BsFillPhoneFill className="w-10 h-10 text-white" />
             </div>
@@ -36,7 +36,7 @@ export default function () {
               />
             </div>
           </div>
-          <div className="w-full flex flex-row space-x-8">
+          <div className="w-full flex flex-row space-x-8 justify-center">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
               <MdEmail className="w-10 h-10 text-white" />
             </div>
@@ -48,7 +48,7 @@ export default function () {
               />
             </div>
           </div>
-          <div className="w-full flex flex-row space-x-8">
+          <div className="w-full flex flex-row space-x-8 justify-center">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
               <FaDiscord className="w-10 h-10 text-white" />
             </div>
@@ -60,7 +60,7 @@ export default function () {
               />
             </div>
           </div>
-          <div className="w-full flex flex-row space-x-8">
+          <div className="w-full flex flex-row space-x-8 justify-center">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
               <BsTwitter className="w-10 h-10 text-white" />
             </div>
@@ -72,7 +72,7 @@ export default function () {
               />
             </div>
           </div>
-          <div className="w-full flex flex-row space-x-8">
+          <div className="w-full flex flex-row space-x-8 justify-center">
             <div className="border-2 border-blue bg-blue bg-opacity-20 rounded-full p-4">
               <AiFillInstagram className="w-10 h-10 text-white" />
             </div>
@@ -85,11 +85,9 @@ export default function () {
             </div>
           </div>
         </div>
-        <div className="w-[85%] flex mt-12 border-2 text-white border-blue bg-blue bg-opacity-20 rounded-lg px-4 py-4">
-          <h1 className="text-center">
-            I check all forms of communication regularly and I am always open to
-            chat!
-          </h1>
+        <div className="w-[85%] flex items-center justify-center mt-12 mb-4 border-2 text-white border-blue bg-blue bg-opacity-20 rounded-lg px-4 py-4">
+          I check all forms of communication regularly and I am always open to
+          chat!
         </div>
       </div>
     </div>

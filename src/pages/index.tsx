@@ -27,7 +27,7 @@ export default function Home() {
           </h1>
         </div>
       </div>
-      <div className="w-full justify-center items-center flex flex-row space-x-8 xl:space-x-[250px] pt-2 pb-4">
+      <div className="w-full justify-center items-center flex flex-row space-x-8 xl:space-x-16 pt-2 pb-4">
         <img src={logo2.src} className="w-14 h-14 md:w-28 md:h-28 xl:w-36 xl:h-36" />
         <img src={logo3.src} className="w-20 h-18 md:w-32 md:h-34 xl:w-48 xl:h-50" />
         <img src={logo4.src} className="w-20 h-20 md:w-32 md:h-32 xl:w-48 xl:h-48" />
