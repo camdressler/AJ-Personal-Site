@@ -37,7 +37,7 @@ export default function Home() {
         See Companies <BiChevronRight className="text-white h-6 w-6 " />
       </a>
       <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-8 space-x-2 break-words text-white">
-        I am an enterprenuer from the Los Angeles area. I am an enterprenuer
+        AHAHAHAH TESTING 1234 I am an enterprenuer from the Los Angeles area. I am an enterprenuer
         from the Los Angeles area. I am an enterprenuer from the Los Angeles
         area. I am an enterprenuer from the Los Angeles area. I am an
         enterprenuer from the Los Angeles area. I am an enterprenuer from the
