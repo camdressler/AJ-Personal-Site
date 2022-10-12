@@ -38,9 +38,7 @@ export default function Home() {
       </a>
       <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-15 space-x-2 break-words text-white">
         
-        I'm a 17 year old entrepreneur helping people make hundreds of thousands of dollars reselling sneakers!
-
-        My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene.
+        I'm a 17 year old entrepreneur helping people make <strong>hundreds of thousands of dollars</strong> reselling sneakers! <p>My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene. </p>
       </div>
     </div>
   );
