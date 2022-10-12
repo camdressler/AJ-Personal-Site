@@ -34,11 +34,11 @@ export default function Home() {
         <img src={logo1.src} className="w-14 h-14 md:w-28 md:h-28 xl:w-36 xl:h-36" />
       </div>
       <a href="/companies" className="mx-auto flex text-center items-center justify-center text-sm w-fit border-2 cursor-pointer hover:opacity-100 border-blue bg-blue bg-opacity-20 opacity-75 select-none text-white font-semibold py-1 pl-4 pr-2 rounded-lg duration-200 ease-in-out mt-8">
-        See Companies <BiChevronRight className="text-white h-6 w-6 " />
+        Company Info <BiChevronRight className="text-white h-6 w-6 " />
       </a>
-      <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-15 space-x-2 break-words text-white">
+      <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-25 space-x-2 break-words text-white">
         
-        I'm a 17 year old entrepreneur helping people make <strong>hundreds of thousands of dollars</strong> reselling sneakers! <p>My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene. </p>
+        <p></p>I'm a 17 year old entrepreneur helping people make <strong>hundreds of thousands of dollars</strong> reselling sneakers! <p></p><p>My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene. </p>
       </div>
     </div>
   );
