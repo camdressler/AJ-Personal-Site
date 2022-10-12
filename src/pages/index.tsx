@@ -38,7 +38,7 @@ export default function Home() {
       </a>
       <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-25 space-x-2 break-words text-white">
         
-        <p></p>I'm a 17 year old entrepreneur helping people make <strong>hundreds of thousands of dollars</strong> reselling sneakers! <br><p>My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene. </p>
+        <p></p>I'm a 17 year old entrepreneur helping people make <strong>hundreds of thousands of dollars</strong> reselling sneakers! <br></br><p>My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene. </p>
       </div>
     </div>
   );
