@@ -48,7 +48,7 @@ export default function () {
           {dropdown1 ? (
             <div className="flex flex-row">
               <div className="flex w-[350px] items-center justify-center text-center border-2 border-blue bg-blue bg-opacity-20 text-white font-semibold py-2 px-4 rounded-lg">
-                This is some example test to fill space.
+                This is some example test to fill space lkasj;sjrawer.
               </div>
             </div>
           ) : (
