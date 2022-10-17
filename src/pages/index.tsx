@@ -36,7 +36,7 @@ export default function Home() {
       <a href="/companies" className="mx-auto flex text-center items-center justify-center text-sm w-fit border-2 cursor-pointer hover:opacity-100 border-blue bg-blue bg-opacity-20 opacity-75 select-none text-white font-semibold py-1 pl-4 pr-2 rounded-lg duration-200 ease-in-out mt-8">
         See Companies <BiChevronRight className="text-white h-6 w-6 " />
       </a>
-      <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-25 space-x-2 break-words text-white">
+      <div className="w-[75%] mx-auto flex flex-col items-center justify-center text-center pt-40 space-x-2 break-words text-white">
         
         <p></p><br></br>I'm a 17 year old entrepreneur helping people make hundreds of thousands of dollars reselling sneakers! <br></br><br></br><p>My goal in life is to provide value to my customers, elevate my staff teams, and build positive communities in the reselling scene. </p>
       </div>
